@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Diabolo Fraise",
+        "alcohol": false,
+        "alcohol_volume": 0,
+        "price": "2.7",
+        "cl": "25",
+        "id": 3
+    },
+    {
+        "name": "jus de pastèque",
+        "alcohol": false,
+        "alcohol_volume": 0,
+        "price": "14",
+        "cl": "5",
+        "id": 2
+    }
+]

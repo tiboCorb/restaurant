@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "sourceMap": true,
+    "emitDecoratorMetadata": false,
+    "experimentalDecorators": false,
+    "removeComments": true,
+    "noImplicitAny": false,
+    "suppressImplicitAnyIndexErrors": true,
+    "sourceRoot": "src/front",
+    "mapRoot": "dist",
+    "outDir": "dist",
+    "jsx": "react"
+  },
+  "exclude": ["node_modules", "dist"]
+}
